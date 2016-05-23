@@ -1,0 +1,28 @@
+name: Snowlorry
+favicon: null
+layout_spectrum: 0.015980971744284034
+typography_spectrum: 0.2789450981654227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.12426964822225273
+  lightness: 0.6211847844533622
+  saturation: 0.7300778974313289
+  rhythmicContrast: 0.3694426189176738
+purpose: []
