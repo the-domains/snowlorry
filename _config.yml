@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.7300778974313289
+  saturation: 0.7956989
   brandStrength: 0.7849463
-  lightness: 0.6211847844533622
+  lightness: 0.6211848
   brandColors:
     - '#c8dce5'
     - '#ffffff'
     - '#000000'
     - '#778284'
     - '#aca49f'
-  rhythmicContrast: 0.3694426189176738
+  rhythmicContrast: 0.4677419
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Snowlorry
 favicon: null
+name: Snowlorry
 opengraph:
   image: null
   type: null
