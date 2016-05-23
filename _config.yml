@@ -1,29 +1,41 @@
-name: Snowlorry
-favicon: null
-layout_spectrum: 0.19176
-typography_spectrum: 0.8141
 title: Muso meanderings
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7300778974313289
+  brandStrength: 0.7849463
+  lightness: 0.6211847844533622
   brandColors:
     - '#c8dce5'
     - '#ffffff'
     - '#000000'
     - '#778284'
     - '#aca49f'
-  brandStrength: 0.12426964822225273
-  lightness: 0.6211847844533622
-  saturation: 0.7300778974313289
   rhythmicContrast: 0.3694426189176738
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Snowlorry
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8141
+layout_spectrum: 0.19176
